@@ -20,8 +20,11 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx
 #EXTINF:-1, Baires Tv
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w228551807.m3u8
 
-#EXTINF:-1, Boruto Ep59
-https://fvs.io/redirector?token=MnRnbGl4WWRZQUJtcjVjU0ZxU2tYMUhwRnJCeEQ0WEkzUWJpamtiVGo2dFpoQ1hHdVRndkJJN0x2a1BoRFRFUU12QlNocFgwZFlKcTF5TUNPaTd1Z0MvNWNRTnNpaGo1YnFPUWxuc3JoeDBkZElLamJtYWR3UW01N05HNDluUXRpVTlWaTlML3A2bUE5LzdBWG5neitHcHBOaU5mOlVRRmNnMk9ZRXA4b1RqTlliNDJDR3c9PQCyNs
+#EXTINF:-1, GOGO PLAY TV
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+
+#EXTINF:-1, Mix Bolivia TV
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 
 #EXTINF:-1, tvg-name="PARA VER" group-title="Cine y Series" ,PARA VER
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/06496/cqm26hvma9r5_n/index-v1-a1.m3u8?t=Lceomt9luO0TQhcqITkgEsZi72vhCB8Ie4Z0zAbZKHM&s=1720917177&e=10800&f=32484091&srv=46&asn=22927&sp=4000
