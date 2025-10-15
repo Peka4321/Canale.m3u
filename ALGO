@@ -7,7 +7,7 @@ https://anvtcax.fubohd.com/telefe/mono.m3u8?token=edd1204cbf05fae2e1a08cf7c82238
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1, Los Simpson
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208685/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
@@ -29,6 +29,18 @@ https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 
 #EXTINF:-1, Mix Bolivia TV
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
+
+#EXTINF:-1, Moni Tv
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
+
+#EXTINF:-1, Goku Tv
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+#EXTINF:-1, Max Anime
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
+
+#EXTINF:-1, Peliculas Anime
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 
 #EXTINF:-1, tvg-name="PARA VER" group-title="Cine y Series" ,PARA VER
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/06496/cqm26hvma9r5_n/index-v1-a1.m3u8?t=Lceomt9luO0TQhcqITkgEsZi72vhCB8Ie4Z0zAbZKHM&s=1720917177&e=10800&f=32484091&srv=46&asn=22927&sp=4000
