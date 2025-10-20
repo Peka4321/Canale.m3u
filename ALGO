@@ -12,11 +12,17 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1, Los Simpson
 https://live20.bozztv.com/giatvplayout7/giatv-208685/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, Los Simpson HD
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+
 #EXTINF:-1, Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1, RTFV Costa rica
 https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
+
+#EXTINF:-1, Super Toon
+https://d1swszxzumm47b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-og0iw9ikdkebc/e0cd95ce-2d4f-4a7a-b548-3844a9b8cb3c/1.m3u8
 
 #EXTINF:-1, Cartoon Variado
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=v3ir6i66
@@ -24,8 +30,11 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx
 #EXTINF:-1, PEQUE TV
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/chunks.m3u8
 
-#EXTINF:-1, Cartooncito
-https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+#EXTINF:-1, Toonami
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
+
+#EXTINF:-1, WOW PELICULAS
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 #EXTINF:-1, GOGO PLAY TV
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
