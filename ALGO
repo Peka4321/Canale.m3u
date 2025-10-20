@@ -3,8 +3,11 @@
 #EXTINF:-1, Pelicula
 https://cdn-bxh6u9xm267xdsgo.orbitcache.com/engine/hls2-c/01/15620/cvlyasn0exde_,n,.urlset/index-v1-a1.m3u8?t=YFG7gPlX5CqmMwr0_UZEmLqBlfN-r6kORUAo_dig_Ok&s=1760923796&e=14400&f=78102895&node=I1EQvlHafoJM/zWmWqVFTvVK5jRXu9gJkhTSUBO5LCk=&i=186.61&sp=2500&asn=22927&q=n&rq=N6pBwSjQg0myaGctja18r4Ak1JiI1IzbypJSDF70
 
-#EXTINF:-1, GAM
-https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+
+#EXTINF:-1, Neo Tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
