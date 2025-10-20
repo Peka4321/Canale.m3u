@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, VM LATINO
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1158368184.m3u8
+#EXTINF:-1, LATINO
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1913719057.m3u8
 
-#EXTINF:-1, GAM TV
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+#EXTINF:-1, GAM 
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Neo Tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
