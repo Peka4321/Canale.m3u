@@ -3,8 +3,8 @@
 #EXTINF:-1, LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1913719057.m3u8
 
-#EXTINF:-1, GAM 
-https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bajo la misma estrella
+https://cdn-6thw7b00uppejdtq.orbitcache.com/engine/hls2/01/14083/vphjkoueifky_,n,.urlset/index-v1-a1.m3u8?t=fW2eWOm2fW2G22KXmm8zqmLs1hudOb2f1IuAa762n2Q&s=1760979898&e=14400&f=70417334&node=Ho0pK0WwGhA6UnD2f032SGjD4NJlATNJF8MBAPqE67A=&i=186.61&sp=2500&asn=22927&q=n&rq=zkDOwCHuEXS0nPp2mpYObnQoqgnFzxa2W6pShgay
 
 #EXTINF:-1, Neo Tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
