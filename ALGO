@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/matchzone01/TOK/master.m3u8?hdnea=st=1760910850~exp=1760918050~acl=/hls/live/2037985/matchzone01/TOK/*~hmac=f24babcac3b7eca9ac216dbfda164ef9075a8f011357e49308b270debc48802d
+#EXTINF:-1, Pelicula
+https://cdn-bxh6u9xm267xdsgo.orbitcache.com/engine/hls2-c/01/15620/cvlyasn0exde_,n,.urlset/index-v1-a1.m3u8?t=YFG7gPlX5CqmMwr0_UZEmLqBlfN-r6kORUAo_dig_Ok&s=1760923796&e=14400&f=78102895&node=I1EQvlHafoJM/zWmWqVFTvVK5jRXu9gJkhTSUBO5LCk=&i=186.61&sp=2500&asn=22927&q=n&rq=N6pBwSjQg0myaGctja18r4Ak1JiI1IzbypJSDF70
 
 #EXTINF:-1, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
