@@ -9,11 +9,17 @@ https://nslrd.envivotv.live/dsports/tracks-v1a1/mono.m3u8?remote=186.61.184.89&t
 #EXTINF:-1, Neo Tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1, Coto Brus Tv
+https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
+
 #EXTINF:-1, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1, Los Simpson
 https://live20.bozztv.com/giatvplayout7/giatv-208685/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Retrox Tv
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
 #EXTINF:-1, STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -27,8 +33,8 @@ https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1, Super Toon
 https://d1swszxzumm47b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-og0iw9ikdkebc/e0cd95ce-2d4f-4a7a-b548-3844a9b8cb3c/1.m3u8
 
-#EXTINF:-1, Ciudad Magica
-https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+#EXTINF:-1, Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 
 #EXTINF:-1, PEQUE TV
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/chunks.m3u8
