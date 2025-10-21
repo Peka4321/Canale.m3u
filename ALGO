@@ -3,8 +3,8 @@
 #EXTINF:-1, LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1913719057.m3u8
 
-#EXTINF:-1, Bajo la misma estrella
-https://cdn-6thw7b00uppejdtq.orbitcache.com/engine/hls2/01/14083/vphjkoueifky_,n,.urlset/index-v1-a1.m3u8?t=fW2eWOm2fW2G22KXmm8zqmLs1hudOb2f1IuAa762n2Q&s=1760979898&e=14400&f=70417334&node=Ho0pK0WwGhA6UnD2f032SGjD4NJlATNJF8MBAPqE67A=&i=186.61&sp=2500&asn=22927&q=n&rq=zkDOwCHuEXS0nPp2mpYObnQoqgnFzxa2W6pShgay
+#EXTINF:-1, DSPORT
+https://nslrd.envivotv.live/dsports/tracks-v1a1/mono.m3u8?remote=186.61.184.89&token=b8dfcec48e36d4ebc86165ba0922f978fdf1e9bf-3b78f53043021e5a93960d4745442fea-1761069875-1761059075
 
 #EXTINF:-1, Neo Tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -15,8 +15,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1, Los Simpson
 https://live20.bozztv.com/giatvplayout7/giatv-208685/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Los Simpson HD
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+#EXTINF:-1, STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1, Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
@@ -27,8 +27,8 @@ https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1, Super Toon
 https://d1swszxzumm47b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-og0iw9ikdkebc/e0cd95ce-2d4f-4a7a-b548-3844a9b8cb3c/1.m3u8
 
-#EXTINF:-1, Cartoon Variado
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=v3ir6i66
+#EXTINF:-1, Ciudad Magica
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 
 #EXTINF:-1, PEQUE TV
 https://live20.bozztv.com/akamaissh101/ssh101/pequeradiotv/chunks.m3u8
