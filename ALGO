@@ -9,6 +9,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, Coto Brus Tv
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 
+#EXTINF:-1, Plan del Diablo T2 E12
+https://cdn-l5np0g0bowyicfhu.edgeon-bandwidth.com/engine/hls2/01/14434/kj5tcdrrilym_,n,.urlset/index-v1-a1.m3u8?t=EmB_ZvvKoHvfVD6fqNicavUmV_dl--RnJl5cV4YbJ4M&s=1763167429&e=14400&f=72171350&node=Ym08ix+07hYh9yMgXUNvWi+gmWGmx4SQlfwNSWqgAOk=&i=186.61&sp=2500&asn=22927&q=n&rq=mgtJrSQ2EOExdVtJAkAaAYSVIsCsnWBIOoE0Cxy7
+
 #EXTINF:-1, Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
